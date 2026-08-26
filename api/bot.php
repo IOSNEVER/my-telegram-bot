@@ -1,5 +1,5 @@
 <?php
-$botToken = getenv('8536061723:AAEhGBWglxI2GgYj4uWhnPhRfOZ2_rvyBx8');
+$botToken = getenv('8920920588:AAHVWeIbd7MzIIpuI0xQrTuk3IkTkMH93hg');
 
 if (!$botToken) {
     error_log("ERROR: BOT_TOKEN is not set in Vercel Environment Variables!");
